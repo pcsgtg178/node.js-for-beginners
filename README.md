@@ -29,3 +29,5 @@ Part8 : เริ่มต้นใช้งานกับ Express Web Framewor
 Part9 : การให้บริการ Static Files ด้วย Express
 
 Part10 : ทำ Http Post Request ด้วย Express และ Body Parser Module, ใช้งาน JSON Data ด้วย Express และ Body Parser
+
+Part11 : ตรวจสอบอินพุตของผู้ใช้ด้วย express และ joi
